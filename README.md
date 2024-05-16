@@ -1,4 +1,4 @@
-![image](https://github.com/Nagin-Kim/cosprompt/assets/24890015/66fbaa22-25ac-447b-ad8a-83feeacd9959)## Consprompt: Exploiting Contrastive Samples for Few-Shot Prompt Learning 
+# Consprompt: Exploiting Contrastive Samples for Few-Shot Prompt Learning 
 Prompt has become an effective linguistic tool for utilizing
 pre-trained language models. However, in few-shot scenarios, subtle changes of prompt’s design always make the
 result widely different, and the prompt learning methods
