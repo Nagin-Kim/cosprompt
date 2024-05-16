@@ -8,7 +8,7 @@ multi-degree contrastive learning methods to improve the robustness of the promp
 Consprompt, combined with the prompt encoding network, contrastive sampling modules, and contrastive scoring modules,
 is introduced to realize differential contrastive learning.
 
-
+Data example can see in the each zip file
 ![image](https://github.com/Nagin-Kim/cosprompt/assets/24890015/a6e64667-882c-4446-9c27-83daffb4a532)
 
 ___________________________________________________________________________________________________________
