@@ -13,9 +13,9 @@ we user the standford Sbert Embedding
 ![image](https://github.com/Nagin-Kim/cosprompt/assets/24890015/a6e64667-882c-4446-9c27-83daffb4a532)
 If you use our idea, you can cite our paper.
 
-{J. Weng, Y. Deng, D. Li, H. You, Y. Hu and H. Huang, "Consprompt: Exploiting Contrastive Samples for Few-Shot Prompt Learning," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024, pp. 6835-6839, doi: 10.1109/ICASSP48485.2024.10448403. keywords: {Self-supervised learning;Signal processing;Linguistics;Controllability;Robustness;Encoding;Acoustics;Prompt learning;Pre-trained language model;contrastive learning;few-shot learning}
+#### J. Weng, Y. Deng, D. Li, H. You, Y. Hu and H. Huang, "Consprompt: Exploiting Contrastive Samples for Few-Shot Prompt Learning," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024, pp. 6835-6839, doi: 10.1109/ICASSP48485.2024.10448403. 
 
 
 ___________________________________________________________________________________________________________
 
-### our baseline use the code in :https://gitcode.com/princeton-nlp/LM-BFF
+Our baseline use the code in LMBFF, which is also a prompt method for few-shot learning:https://gitcode.com/princeton-nlp/LM-BFF
