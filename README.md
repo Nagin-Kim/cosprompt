@@ -12,4 +12,4 @@ is introduced to realize differential contrastive learning.
 ![image](https://github.com/Nagin-Kim/cosprompt/assets/24890015/a6e64667-882c-4446-9c27-83daffb4a532)
 
 
-### more ｄａｔａ　ａｎｄ　ｂａｓｅｌｉｎｅ　code can see in :https://gitcode.com/princeton-nlp/LM-BFF
+### our baseline use the code in :https://gitcode.com/princeton-nlp/LM-BFF
