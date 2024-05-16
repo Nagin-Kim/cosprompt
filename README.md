@@ -8,14 +8,16 @@ multi-degree contrastive learning methods to improve the robustness of the promp
 Consprompt, combined with the prompt encoding network, contrastive sampling modules, and contrastive scoring modules,
 is introduced to realize differential contrastive learning.
 
-Data example can see in the each zip file 16-100 21-100....zip each contains their sbert embedding
-we user the standford Sbert Embedding
+## Data examples can see in the each zip file 16-100 21-100....zip each contains their sbert embedding
+we use the Standford Sbert Embedding
 ![image](https://github.com/Nagin-Kim/cosprompt/assets/24890015/a6e64667-882c-4446-9c27-83daffb4a532)
-If you use our idea, you can cite our paper.
 
-#### J. Weng, Y. Deng, D. Li, H. You, Y. Hu and H. Huang, "Consprompt: Exploiting Contrastive Samples for Few-Shot Prompt Learning," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024, pp. 6835-6839, doi: 10.1109/ICASSP48485.2024.10448403. 
+
+## If you use our idea, you can cite our paper.
+
+J. Weng, Y. Deng, D. Li, H. You, Y. Hu and H. Huang, "Consprompt: Exploiting Contrastive Samples for Few-Shot Prompt Learning," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024, pp. 6835-6839, doi: 10.1109/ICASSP48485.2024.10448403. 
 
 
 ___________________________________________________________________________________________________________
 
-Our baseline use the code in LMBFF, which is also a prompt method for few-shot learning:https://gitcode.com/princeton-nlp/LM-BFF
+Our baseline use the code in LMBFF, which is also a popular prompt method for few-shot learning:https://gitcode.com/princeton-nlp/LM-BFF
